@@ -354,6 +354,7 @@ footer {
     background-size: cover;
     padding: 15px;
     overflow: hidden;
+    background-position: 50% 30%;
 }
 
 #lead-content {
@@ -682,6 +683,10 @@ footer {
         padding: 30px 15px;
         transform: none;
     }
+}
+
+.project-thumbnail {
+    padding: 10px
 }
 
 #more-projects {
